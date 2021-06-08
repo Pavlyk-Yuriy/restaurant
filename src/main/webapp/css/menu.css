@@ -1,0 +1,17 @@
+.card-columns {
+    column-count: 3;
+    /*display: flex;*/
+    /*flex-wrap: wrap;*/
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.col-sm-4{
+    padding-bottom: 10px;
+}
+/*body{*/
+/*    background-image: url("https://www.8ways.ch/application/files/9415/0874/4507/restaurant_1.jpeg");*/
+/*}*/
